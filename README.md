@@ -1,5 +1,5 @@
-# Using Large Language Models for Classification of Unstructured Text
-This repo demonstrates how to use different LLMs to classify news articles and compare the result to a tradionall XGBoost classifier. The details can be found in this [artice](https://medium.com/).
+# Using Large Language Models for Classification of News Articles
+This repo demonstrates how to use different LLMs to classify news articles and compare the result to a traditional XGBoost classifier. The details can be found in this [artice](https://medium.com/).
 
 ## Getting started
 
