@@ -1,0 +1,9 @@
+scikit-learn
+numpy
+matplotlib
+ipykernel
+sentence-transformers
+FLAML[automl]
+openai
+python-dotenv
+tiktoken

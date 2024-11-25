@@ -1,0 +1,16 @@
+.env
+venv
+.DS_Store
+__pycache__
+*.json
+*.log
+*.pkl
+*.swp
+config/config.yaml
+debug.py
+.python-version
+Scripts/prepare_mail_data.py
+notebooks
+#data/20Newsgroups
+#data/maildata
+data/news/csv
