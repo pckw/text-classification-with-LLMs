@@ -17,8 +17,7 @@ and then
 
 ## Prepare the data and run the models
 * Create a folder data/news/csv
-* Download the [dataset](https://www.kaggle.com/datasets/banuprakashv/)
-news-articles-classification-dataset-for-nlp-and-ml)
+* Download the [dataset](https://www.kaggle.com/datasets/banuprakashv/news-articles-classification-dataset-for-nlp-and-ml)
 * Convert the csv data to a train.pkl and test.pkl using Scripts/prepare_news_data.py
 * The jupyter-notebook main.ipynb provides an example on how to run the code.
 
